@@ -1,0 +1,84 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url("../img/20240305_151935.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+header{
+    background-color: rgb(4, 3, 80);
+    box-shadow: 0px 0px 2px 2px orange;
+    height: 80px;
+}
+.I h1{
+    background-color: rgb(230, 142, 34);
+    box-shadow: 0px 0px 2px 2px blue;
+    border-radius: 10px;
+    padding: 6px;
+    margin-top: 18px;
+    margin-left: 30px;
+    font-size: 15px;
+    color: white;
+}
+.LO img{
+    border-radius: 20px;
+    box-shadow: 0px 0px 2px 2px darkorange;
+    width: 100px;
+    height: 80px;
+    margin-top: 10px;
+    margin-left: 30%;
+}
+li{
+    display: inline-block;
+    margin-top: 30px;
+    margin-left: 10px;
+}
+.p{
+    display: flex;
+}
+.l {
+    margin-left: 30%;
+}
+ul a{
+    text-decoration: none;
+    color: white;
+}
+ul a:hover{
+    background-color: darkorange;
+    border-radius: 15px;
+    padding: 4px;
+    color: white;
+}
+.Lo, a{
+    text-decoration: none;
+    color: white;
+}
+.Lo, a:hover{
+    background-color: rgb(243, 243, 243);
+    border-radius: 15px;
+    padding: 3px;
+    color: white;
+}
+.LO1 p{
+    margin-left: 35px;
+    margin-top: 30px;
+    color: white;
+}
+/*corpo*/
+
+.centro{
+    margin-left: 50px;
+    margin-top: 50px;
+}
+.con{
+    color: white;
+}
+.con1{
+    color: rgb(221, 31, 31);
+    margin-top: 20px;
+}
+.con2{
+    margin-top: 40px;
+}
